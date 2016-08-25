@@ -1,3 +1,4 @@
-In diesem Verzeichnis stehten alle Ressource-Dateien. Dazu zählen
-die Sprachdateien für die Lokalisierung des Editors, aber
-auch alle Bilddateien und Ikons,  falls sie benutzt werden.
+In diesem Verzeichnis steht die Bibliotheksklasse EditorLib
+(falls eine Bibliothek eingerichtet wird) und alle sonstigen übergreifenden Klassen, 
+die nicht eindeutig einem Verzeichnis zugeordnet werden können.
+Zur Zeit ist dieses Verzeichnis leer.
